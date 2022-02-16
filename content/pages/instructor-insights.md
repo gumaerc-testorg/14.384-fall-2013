@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 709f1e1d-a1e2-32d3-db59-2583b2f5c2fa
 ---
@@ -48,28 +50,6 @@ _14.382 Econometrics_
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A photograph taken from the back of a classroom. The room has three rows of seating and blackboards at the front of the room.]({{< resource_file 77da5f2d-0db7-59a2-dddd-0338ca40f43f >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures for the course were held in this room, which has a capacity of 50 students.
-    
-*   ![A photograph taken from the front of a classroom. The room contains several rows of chairs with desk arms.]({{< resource_file 5e7c8171-e047-445c-432d-0eea8721e6f0 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    This is the classroom where the teaching assistant held recitation sessions.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

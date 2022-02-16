@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-384-time-series-analysis-fall-2013/cbfa217670dde974ad60704bcdcc23e6_MIT14_384F13_problems.pdf
+file: /media/courses/14-384-time-series-analysis-fall-2013/cbfa217670dde974ad60704bcdcc23e6_MIT14_384F13_problems.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Assignments and Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 14.384 Sample problems
 uid: cbfa2176-70dd-e974-ad60-704bcdcc23e6
