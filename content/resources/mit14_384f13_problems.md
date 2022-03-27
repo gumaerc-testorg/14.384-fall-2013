@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
+parent_uid: d77511b3-485c-dd0b-251e-790890fbfec0
 resourcetype: Document
 title: 14.384 Sample problems
 uid: cbfa2176-70dd-e974-ad60-704bcdcc23e6

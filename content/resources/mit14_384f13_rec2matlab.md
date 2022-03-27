@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 430be4a7-f1b2-abe2-a825-adedf5289076
 resourcetype: Document
 title: 'Recitation 2: Time Series in Matlab'
 uid: 72c7366e-766c-d0e3-7eea-cdd062f93dcc

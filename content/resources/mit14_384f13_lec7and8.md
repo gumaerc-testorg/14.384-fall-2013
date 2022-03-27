@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 72d9b46b-8a8a-2a3d-f216-45f11f32faaa
 resourcetype: Document
 title: 'Lecture Notes 7-8: Weak IV'
 uid: 365cba34-145f-a204-731e-9df202d4771e
