@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course, organized by
+  lecture session and topic.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ FILES
 Stationarity, lag operator, ARMA, and covariance structure
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec1)
+{{% resource_link 4f2256b0-a9c3-157a-2676-806ed261eb8f "Lecture 1 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Stationarity, lag operator, ARMA, and covariance structure
 Limit theorems, OLS, and HAC
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec2)
+{{% resource_link afe0120e-7085-8724-b3d6-c44d888aac36 "Lecture 2 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Limit theorems, OLS, and HAC
 More HAC and intro to spectrum
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec3)
+{{% resource_link 54880f48-400a-b366-a198-34f62f331c2a "Lecture 3 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ More HAC and intro to spectrum
 Spectrum
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec4)
+{{% resource_link a2e7127c-2bbf-8733-ebaa-6cbed8eb18fc "Lecture 4 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Spectrum
 Spectrum estimation and information criteria
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec5)
+{{% resource_link 34572354-506e-1ed7-1ae5-de10ca7b83db "Lecture 5 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ Spectrum estimation and information criteria
 GMM
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec6)
+{{% resource_link 50b9c41b-28a2-447a-4442-069b4b976537 "Lecture 6 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ GMM
 Weak IV
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7 and 8 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec7and8)
+{{% resource_link 365cba34-145f-a204-731e-9df202d4771e "Lecture 7 and 8 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Weak IV
 Bootstrap
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec9)
+{{% resource_link 2fdf997b-ca65-d6ed-82ba-7a94f6cdc970 "Lecture 9 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ Bootstrap
 Introduction to VARs
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec10)
+{{% resource_link c513d2c0-f8b1-949e-facd-64e27df0fe07 "Lecture 10 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +141,7 @@ Introduction to VARs
 VARs
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec11)
+{{% resource_link a0f9daa5-0941-4e99-3f12-a9a070c83449 "Lecture 11 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +153,7 @@ VARs
 Structural VARs
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12 and 13 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec12and13)
+{{% resource_link cbd9aab2-311d-a9fc-885d-3bdc16acf535 "Lecture 12 and 13 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +165,7 @@ Structural VARs
 Factor models
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec14)
+{{% resource_link 46c2f075-16de-7434-1a09-ca3dcc3d3c56 "Lecture 14 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +177,7 @@ Factor models
 Factor models part 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec15)
+{{% resource_link 91e7bd2e-7e44-724b-4d31-17a6e46f9f1b "Lecture 15 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +189,7 @@ Factor models part 2
 Empirical processes
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec16)
+{{% resource_link 6cf9d870-a2c8-d209-716d-198dc1fc615e "Lecture 16 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +201,7 @@ Empirical processes
 Unit roots
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 17 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec17)
+{{% resource_link 3c931b23-a05a-b736-b071-f3d5707f81af "Lecture 17 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +213,7 @@ Unit roots
 More non-stationarity
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 18 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec18)
+{{% resource_link 49ca4ca4-31c7-5c78-1aab-2c0c814d61f5 "Lecture 18 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +225,7 @@ More non-stationarity
 Breaks and cointegration
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec19)
+{{% resource_link 12be198d-6b52-81bb-ba7b-022fd15cfa46 "Lecture 19 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +237,7 @@ Breaks and cointegration
 Cointegration
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 20 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec20)
+{{% resource_link 4c0d665d-324c-565f-b9b6-d258538cb78e "Lecture 20 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +249,7 @@ Cointegration
 Filtering, state space models, Kalman filter
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 21 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec21)
+{{% resource_link 3dcb917d-20ec-e788-52cd-398a3f7b5e64 "Lecture 21 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +261,7 @@ Filtering, state space models, Kalman filter
 State-space models, ML estimation, DSGE models
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 22 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec22)
+{{% resource_link 156b1b31-71c6-9c65-8504-6ddbbf603a01 "Lecture 22 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +273,7 @@ State-space models, ML estimation, DSGE models
 Intro to Bayes approach, reasons to be Bayesian
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 23 and 24 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec23and24)
+{{% resource_link efc84003-319d-de93-c94e-d48d3d1e7433 "Lecture 23 and 24 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +285,7 @@ Intro to Bayes approach, reasons to be Bayesian
 MCMC: Metropolis Hastings Algorithm
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 25 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec25)
+{{% resource_link 17301b07-0b8d-ccc2-d783-bb33703d95ca "Lecture 25 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +297,7 @@ MCMC: Metropolis Hastings Algorithm
 MCMC: Gibbs sampling
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 26 Notes (PDF)]({{< baseurl >}}/resources/mit14_384f13_lec26)
+{{% resource_link ceac3edf-7016-aaad-5ac6-dd2889244fee "Lecture 26 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

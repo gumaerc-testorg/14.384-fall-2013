@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides recitation notes that supplement the course notes.
+  They are organized by recitation session and topic.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Recitations
 uid: 430be4a7-f1b2-abe2-a825-adedf5289076
 ---
 
-The following recitation notes are supplements to the [lecture notes]({{< baseurl >}}/pages/lecture-notes). Notes are courtesy of Paul Schrimpf, the course TA, and are used with permission.
+The following recitation notes are supplements to the {{% resource_link 72d9b46b-8a8a-2a3d-f216-45f11f32faaa "lecture notes" %}}. Notes are courtesy of Paul Schrimpf, the course TA, and are used with permission.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Stationarity, autoregression moving average (ARMA), invertibility, covariances (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec1)
+{{% resource_link ca390a75-34c2-594b-397a-f2164697352b "Stationarity, autoregression moving average (ARMA), invertibility, covariances (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,9 +40,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Heteroscedasticity autocorrelation-consistent (HAC) (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec2)
+{{% resource_link 9d1a84a2-d56c-8c26-f469-53ba82a9b1fe "Heteroscedasticity autocorrelation-consistent (HAC) (PDF)" %}}
 
-[Time series in MATLAB (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec2matlab)
+{{% resource_link 72c7366e-766c-d0e3-7eea-cdd062f93dcc "Time series in MATLAB (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -51,7 +53,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Filtering (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec3)
+{{% resource_link b4423432-56c7-7e2d-1808-ad070514712c "Filtering (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +62,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Spectrum estimation, vector autoregression maximum likelihood (VAR ML) (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec4)
+{{% resource_link b315133a-6590-761b-d5c6-9b0ad36fefb6 "Spectrum estimation, vector autoregression maximum likelihood (VAR ML) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Variance decomposition (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec5)
+{{% resource_link 1af8ce2b-bbb7-93e3-13dd-b06f3bed048f "Variance decomposition (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +80,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Fundamentalness, testable factor-augmented vector autoregressive (FAVAR) restrictions, applications of factor models (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec6)
+{{% resource_link d8a56a44-3b11-8985-9af3-ce1066f6bea4 "Fundamentalness, testable factor-augmented vector autoregressive (FAVAR) restrictions, applications of factor models (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +89,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Empirical process theory, random walk asymptotics (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec7)
+{{% resource_link 9e6cbf4a-c9c3-320e-4e9d-5402ab7ac5eb "Empirical process theory, random walk asymptotics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +98,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[More empirical process theory, local to unity asymptotics, testing for breaks (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec8)
+{{% resource_link 2649edaf-9c3f-d729-3a4c-146a9a3aa563 "More empirical process theory, local to unity asymptotics, testing for breaks (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Consumption, income, wealth and cointegration (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec9)
+{{% resource_link 16227fdc-7858-9d70-68e6-a32326d4886d "Consumption, income, wealth and cointegration (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +116,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Generalized method of moments (GMM) estimation of the New Keynesian Phillips Curve (NKPC) (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec10)
+{{% resource_link 0614065e-ffc7-0a4e-77ea-7dc466f956ae "Generalized method of moments (GMM) estimation of the New Keynesian Phillips Curve (NKPC) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +125,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Kalman filtering (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec11)
+{{% resource_link 875d0cd4-6743-891a-684b-bb60eaecf597 "Kalman filtering (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +134,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of the asymptotics of extremum estimators, minimum distance, review of asymptotic normality, variance matrix estimation, hypothesis testing, asymptotics of simulated estimators (PDF)]({{< baseurl >}}/resources/mit14_384f13_rec12)
+{{% resource_link 7ddedae5-317f-dd54-24ff-924688df7c7c "Review of the asymptotics of extremum estimators, minimum distance, review of asymptotic normality, variance matrix estimation, hypothesis testing, asymptotics of simulated estimators (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
