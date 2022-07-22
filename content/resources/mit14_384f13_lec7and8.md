@@ -5,6 +5,7 @@ file: /courses/14-384-time-series-analysis-fall-2013/365cba34145fa204731e9df202d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture Notes 7-8: Weak IV'
 uid: 365cba34-145f-a204-731e-9df202d4771e
 ---
 This resource file contains information regarding lecture 7-8.
-
