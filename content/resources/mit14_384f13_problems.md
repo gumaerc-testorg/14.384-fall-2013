@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-384-time-series-analysis-fall-2013/cbfa217670dde974ad60704bcdcc23e6_MIT14_384F13_problems.pdf
+file_size: 160975
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
