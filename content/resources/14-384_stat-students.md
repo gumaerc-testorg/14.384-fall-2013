@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-384-time-series-analysis-fall-2013/f72b5a6a7e706da258613095f3bb74f9_14-384_stat-students.png
+file_size: 2848
 file_type: image/png
 image_metadata:
   caption: ''
