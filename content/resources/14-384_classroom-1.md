@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-384-time-series-analysis-fall-2013/77da5f2d0db759a2dddd0338ca40f43f_14-384_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/14-384-time-series-analysis-fall-2013/77da5f2d0db759a2dddd0338ca40f43f_14-384_classroom-1.jpg
 file_size: 31186
 file_type: image/jpeg
 image_metadata:
