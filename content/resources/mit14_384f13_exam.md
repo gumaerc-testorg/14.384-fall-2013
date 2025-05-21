@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-384-time-series-analysis-fall-2013/ef6a090f6ba69acd97d2af1c250c6e5c_MIT14_384F13_exam.pdf
+file: /courses/14-384-time-series-analysis-fall-2013/ef6a090f6ba69acd97d2af1c250c6e5c_MIT14_384F13_exam.pdf
 file_size: 114198
 file_type: application/pdf
 learning_resource_types: []
