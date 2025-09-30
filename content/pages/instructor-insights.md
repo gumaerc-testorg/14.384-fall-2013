@@ -43,7 +43,7 @@ _14.382 Econometrics_
 ### Requirements Satisfied
 
 - H-Level graduate credit ![](/images/educator/icon-question-hlevel.png)
-- 14.384 can be applied toward a [Ph.D. in Economics](https://economics.mit.edu/graduate/ph.d.), but is not required.
+- 14.384 can be applied toward a {{% resource_link "9062ba8b-c4fa-49d7-b447-d69f42f4abdf" "Ph.D. in Economics" %}}, but is not required.
 
 ### Offered
 
